@@ -1,0 +1,31 @@
+.topo{
+ padding: 0px 20px;
+ display: flex; 
+ justify-content: center;
+ text-align: center;
+  color: #FFFFFF;
+ 
+}
+
+.menu ul li {
+    float: left;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.menu ul li a{
+    width: 100%;
+    padding: 0;
+    padding-left: 15px;
+    float: left;
+    display: block;
+    border: none;
+    
+}
+.menu ul li a:hover{
+    
+    background-color: #c3c3c3;
+}
